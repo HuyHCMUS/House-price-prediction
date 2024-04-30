@@ -13,9 +13,6 @@
 # Đóng khung vấn đề
 Bài toán này yêu cầu dự đoán giá cuối cùng của mỗi căn nhà dựa trên 79 biến mô tả (hầu như) mọi khía cạnh của các căn nhà ở Ames, Iowa. Bài toán được giao trong một cuộc thi tìm hiểu về dữ liệu, nơi mà những yếu tố khác ngoài số lượng phòng ngủ hoặc hàng rào trắng được chọn để ảnh hưởng đến thương lượng giá.
 
-# Đóng khung vấn đề
-Bài toán này yêu cầu dự đoán giá cuối cùng của mỗi căn nhà dựa trên 79 biến mô tả (hầu như) mọi khía cạnh của các căn nhà ở Ames, Iowa. Bài toán được giao trong một cuộc thi tìm hiểu về dữ liệu, nơi mà những yếu tố khác ngoài số lượng phòng ngủ hoặc hàng rào trắng được chọn để ảnh hưởng đến thương lượng giá.
-
 # Thu thập dữ liệu
 Trong thư mục của cuộc thi này, có các tệp tin sau:
 
