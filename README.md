@@ -1,4 +1,12 @@
-# House-price-prediction
+# Topic: Kaggle - House Prices - Advanced Regression Techniques
+
+Cuộc thi về khoa học dữ liệu trên Kaggle
+
+[Link đến cuộc thi](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/)
+
+[Link đến file trên google colab](https://colab.research.google.com/drive/1jHvW7YJr3hzsb3Wr2Wd1mabsusoHfP2z?usp=drive_link)
+
+[Link đến video trình bày](https://drive.google.com/file/d/12vFsZ2dGoDPdt4amtdGmEroB2mY4tbGT/view?usp=drive_link)
 
 **Nhóm: Anadata**
 
